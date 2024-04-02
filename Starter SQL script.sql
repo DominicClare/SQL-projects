@@ -8,3 +8,8 @@ Use Dom_1
 -- );
 
 SELECT * FROM Users
+
+CREATE TABLE roles (
+    id INT PRIMARY KEY,
+    name VARCHAR(255) 
+    );
